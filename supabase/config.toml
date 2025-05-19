@@ -1,0 +1,11 @@
+
+project_id = "oeapevrjjgoinczpzfbt"
+
+[functions.create-checkout]
+verify_jwt = false
+
+[functions.check-subscription]
+verify_jwt = true
+
+[functions.create-paypal-order]
+verify_jwt = false
