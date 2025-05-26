@@ -3,7 +3,7 @@
 
 🔗 Live demo: https://tidylink-project.netlify.app/
 
-TidyLink is a URL shortener and link verification platform built with TypeScript, Clerk authentication, and Supabase as the backend. It enables users to create shortened links and eventually a “verified” badge and manage them via a clean dashboard UI. I am currently still working on te project, so I have not gotten tot that phase yet.
+TidyLink is a URL shortener and link verification platform built with TypeScript, Clerk authentication, and Supabase as the backend still in development. It enables users to create shortened links and eventually a “verified” badge and manage them via a clean dashboard UI. I am currently still working on te project, so I have not gotten tot that phase yet.
 
 This project is currently in development and intended to showcase code structure, modern stack usage, and low-code AI integration for job applications and portfolio review.
 
